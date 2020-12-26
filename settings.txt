@@ -11,3 +11,4 @@ $paraGray: #908f8f;
 $font-1: 'Montserrat', sans-serif;
 $font-2: 'Merriweather', serif;
 $font-3: 'Catamaran', sans-serif;
+
